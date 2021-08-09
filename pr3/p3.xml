@@ -2,33 +2,27 @@
 <?xml-stylesheet type="text/xsl" href="studata.xsl"?>
 
 <data>
-<StudentData>
-<name>Meshwa Suthar</name>
-<enroll>219SBEIT30006</enroll>
+<SData>
+<name>Bhargav Valani</name>
+<en>19BEIT30007</en>
 <class>5th IT</class>
-<email>meshwajsuthar3501@gmail.com</email>
-</StudentData>
+<email>bhargavvalani01gmail.com</email>
+</SData>
 
-<StudentData>
-<name>Amesha Raina</name>
-<enroll>219SBEIT30002</enroll>
+<SData>
+<name>Dhruv Patel</name>
+<en>19BEIT30014</en>
 <class>5th IT</class>
-<email>amesharaina@gmail.com</email>
-</StudentData>
+<email>dhruvpatel01gmail.com</email>
+</SData>
 
-<StudentData>
-<name>Patel Heli</name>
-<enroll>219SBEIT30002</enroll>
+<SData>
+<name>Deep Patel</name>
+<en>19BEIT30010</en>
 <class>5th IT</class>
+<email>pateldr01gmail.com</email>
+</SData>
 
-<email>helipatel@gmail.com</email>
-</StudentData>
 
-<StudentData>
-<name>Sapna Sharma</name>
-<enroll>18BEIT30057</enroll>
-<class>5th IT</class>
-<email>sapnasharma@gmail.com</email>
-</StudentData>
 
 </data>
