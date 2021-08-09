@@ -1,0 +1,9 @@
+<!DOCTYPE student 
+[ 
+<!ELEMENT student (name , enno, class , sem,pr)> 
+<!ELEMENT name (#PCDATA)> 
+<!ELEMENT enno (#PCDATA)> 
+<!ELEMENT class (#PCDATA)> 
+<!ELEMENT sem (#PCDATA)> 
+<!ELEMENT pr (#PCDATA)>
+]>

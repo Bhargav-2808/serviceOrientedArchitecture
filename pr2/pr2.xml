@@ -1,0 +1,8 @@
+<?xml version="1.0"?> 
+<StudentData> 
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceScehmaLocation="student.xsd"> 
+<name>Bhargav Valani </name> 
+<enno>19BEIT30007</enno> 
+<class>5th IT</class> 
+<pr> Practical-2</pr>
+</StudentData> 
